@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./app/Main.hs"
+      component: "gathering:exe:gathering"
+
+    - path: "./src"
+      component: "gathering:lib"
